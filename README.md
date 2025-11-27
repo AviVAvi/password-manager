@@ -43,11 +43,11 @@ This project demonstrates how to:
 ## Future Upgrades
 
 - AES encryption
-- 
+  
 - Viewing/editing UI with Tkinter
-- 
+  
 - Master password login
-- 
+  
 - Export to CSV or JSON
 
 
